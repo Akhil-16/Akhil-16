@@ -1,6 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h3 align="center">Exploring Cognitive Technologies</h3>
 
+- 🌱 I’m currently learning **Linux**
+
+- 💬 Ask me about **MachineLearning,DeepLearning**
+
+- 📫 How to reach me **purmasai@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
